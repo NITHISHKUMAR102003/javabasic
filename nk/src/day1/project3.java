@@ -1,4 +1,4 @@
-package nk1;
+package day1;
 
 public class project3 {
 
